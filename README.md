@@ -7,7 +7,7 @@ This is a basic Angular project that displays the message "Hello World!" on the 
 The project consists of the following key files:
 
 - **`app.component.html`**: Contains the HTML structure for displaying the "Hello World!" message.
-- **`app.component.css`**: Contains the CSS to style the page, such as centering the message and setting the color.
+- **`app.component.css`**: Contains the CSS to style the page.
   
 ## Live Demo
 
